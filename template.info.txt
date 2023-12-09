@@ -1,0 +1,7 @@
+base     dokuwiki-vpsfree
+author   Anika Henke
+email    anika@selfthinker.org
+date     2014-06-04
+name     DokuWiki Template
+desc     Dokuwiki Template extended design
+url      http://www.dokuwiki.org/template:dokuwiki
